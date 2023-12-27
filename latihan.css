@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: gray;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+#About {
+  padding-top: 5rem;
+}
+#Project {
+  padding-top: 5rem;
+  background-color: gray;
+}
+footer {
+  background-color: gray;
+}
